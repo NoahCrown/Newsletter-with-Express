@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+
+*{
+    font-family: 'Aboreto', cursive;
+}
+
+.form-container {
+    background-color: #F7C8C2;
+}
+
+body {
+    background-color: #FFECEF;
+}
+
+body {
+    color: black;
+}
+
+.btn {
+    background-color: #251B37;
+}
+
+#checkbox-for {
+  
+    margin-right: 95% !important;
+}
+
